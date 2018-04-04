@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>DEV11APAC</name>
+	<comment></comment>
+	<projects>
+		<project>bc_integrationframework</project>
+		<project>bc_library</project>
+		<project>bm_integrationframework</project>
+		<project>bm_tools</project>
+		<project>contentslot</project>
+		<project>customerpreferences</project>
+		<project>delete_custom_object</project>
+		<project>int_simplefeeds</project>
+		<project>jsolutions</project>
+		<project>jtraining</project>
+		<project>solutions</project>
+		<project>test_simplefeeds</project>
+		<project>training</project>
+		<project>storefront_core</project>
+		<project>storefront_controllers</project>
+		<project>storefront_pipelines</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.demandware.studio.server.uploadBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.demandware.studio.server.serverProjectNature</nature>
+	</natures>
+</projectDescription>

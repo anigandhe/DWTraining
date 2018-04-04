@@ -1,0 +1,2 @@
+<!--- TEMPLATENAME: notEmpty.isml --->
+Got the parameter ${pdict.CurrentHttpParameterMap.param.value}
