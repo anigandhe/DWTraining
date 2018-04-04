@@ -24,7 +24,7 @@ function start() {
 				);
 	}
 	
-	/* response.getWriter().println(myParam.stringValue); */
+	response.getWriter().println(myParam.stringValue);
 
 };
 exports.Start = guard.ensure(['get'], start);
