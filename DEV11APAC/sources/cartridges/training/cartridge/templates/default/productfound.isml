@@ -1,0 +1,2 @@
+<!--- TEMPLATENAME: productfound.isml --->
+<h1>The product name is ${pdict.myProduct.name}</h1>
